@@ -1,4 +1,4 @@
-## Hi, my name os Lucas, welcome to my profile💻👨‍💻
+## Hi, my name is Lucas, welcome to my profile💻👨‍💻
 
 <!--
 **Lucas-T01/Lucas-T01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
